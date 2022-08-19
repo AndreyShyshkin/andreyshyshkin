@@ -1,4 +1,4 @@
-<img style="margin: 0 auto" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
+<img style="text-align: center;" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
 
 ---
 
@@ -32,5 +32,20 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyShyshkin&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreyShyshkin&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
