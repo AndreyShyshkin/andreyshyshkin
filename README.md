@@ -1,4 +1,4 @@
-![Header](https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif)
+<img style="margin: 0 auto" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
 
 ---
 
