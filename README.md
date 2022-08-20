@@ -1,10 +1,10 @@
 <div align="center">
-<img alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />
+<img alt="hello" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />
 
 
 ---
 
-<h1 align="center">Hi 👋, I'm Andrey Shyshkin</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Andrey Shyshkin</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 ---
