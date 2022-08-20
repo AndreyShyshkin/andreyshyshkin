@@ -7,6 +7,16 @@
 
 ---
 
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently building FrontEnd.
+- 🌱 I’m currently learning more about New Technologic.
+- 💬 Ask me about FrontEnd or any tech-related stuff.
+- 📫 How to reach me: Gmail.
+- ⚡ Fun fact: I spend almost 12 hours dev site every day.
+
+---
+
 ### 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
