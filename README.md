@@ -35,7 +35,8 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <table>
   <tr>
