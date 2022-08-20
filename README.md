@@ -1,4 +1,4 @@
-<img align="center" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
+<img align="center" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />
 
 ---
 
