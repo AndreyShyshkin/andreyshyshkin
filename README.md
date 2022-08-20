@@ -1,4 +1,9 @@
-<img style="text-align: center;" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
+<img align="center" alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />&nbsp;
+
+---
+
+<h1 align="center">Hi 👋, I'm Andrey Shyshkin</h1>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 ---
 
