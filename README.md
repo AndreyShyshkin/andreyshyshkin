@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="react" src="https://github.com/AndreyShyshkin/andreyshyshkin/blob/main/hello.gif" />
-</div>
+
 
 ---
 
@@ -81,7 +81,7 @@
   
 ---
 
-<div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 
