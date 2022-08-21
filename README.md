@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning more about New Technologic.
 - 💬 Ask me about FrontEnd or any tech-related stuff.
 - 📫 How to reach me: Gmail.
-- ⚡ Fun fact: I spend almost 12 hours dev site every day.
 
 ---
 
