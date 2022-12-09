@@ -75,15 +75,3 @@
   </details>
   
 ---
-
-
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
----
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=AndreyShyshkin" />
-
----
