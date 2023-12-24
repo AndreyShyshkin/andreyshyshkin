@@ -82,6 +82,4 @@
   
 ---
 
-![snake gif](https://github.com/AndreyShyshkin/andreyshyshkin/blob/output/github-contribution-grid-snake.gif)
-
 Thank you for visiting my profile 
